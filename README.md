@@ -5,7 +5,8 @@
 <a href="https://www.linkedin.com/in/utkarsh--dixit"><img src="https://user-images.githubusercontent.com/88888678/172894710-760433d2-7e10-45d9-b4be-0b5cc451487b.png" width="50" alt="LinkedIN Handle"/></a>&nbsp; &nbsp;
 <a href="https://twitter.com/Utkarsh06264467"><img src="https://user-images.githubusercontent.com/88888678/172897171-14919cb0-6602-4433-bbdc-1fbfa3c66171.png" width="50" alt="Twitter Handle"/></a> &nbsp; &nbsp;
 <a href="https://discord.com/channels/Utkarsh#2496"><img src="https://user-images.githubusercontent.com/88888678/172901330-21f66851-a87e-4bf5-893f-8013d82f2b36.png" width="50" alt="Discord Handle"/></a> &nbsp; &nbsp;
-<a href="https://hashnode.com/@Utkarsh01"><img src="https://user-images.githubusercontent.com/88888678/172900523-ab0313d7-248d-4729-bad2-4ca881b14a00.png" width="50" alt="Hashnode Handle"/></a>
+<a href="https://hashnode.com/@Utkarsh01"><img src="https://user-images.githubusercontent.com/88888678/172900523-ab0313d7-248d-4729-bad2-4ca881b14a00.png" width="50" alt="Hashnode Handle"/></a> &nbsp; &nbsp;
+<a href="https://app.daily.dev/utkarshdixit"><img src="https://user-images.githubusercontent.com/88888678/172901880-d1892233-31ae-4775-b57b-09ef0f552597.png" width="50" alt="Daily Dev Handle"/></a>
 - 👀 I’m interested in learning new skills in backend developing to become a full stack developer.
 - 💞️ I’m looking to collaborate on Web development projects, hosted sites editing/designing, or developing sites to be hosted.
 - 📫 You can reach me through my personal portfolio website(contact form or whatsapp) ---- https://utkarsh-dixit-git.github.io/utkarshdixit/
