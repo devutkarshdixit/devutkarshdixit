@@ -11,4 +11,3 @@
 - 👀 I’m interested in learning new skills in backend developing to become a full stack developer.
 - 💞️ I’m looking to collaborate on Web development projects, hosted sites editing/designing, or developing sites to be hosted.
 - 📫 You can reach me through my personal portfolio website(contact form or whatsapp) ---- https://utkarsh-dixit-git.github.io/utkarshdixit/
-- (https://img.shields.io/badge/-utkarshdixit-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](href:https://utkarsh-dixit-git.github.io/utkarshdixit/)&nbsp;
