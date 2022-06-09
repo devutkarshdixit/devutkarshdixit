@@ -4,6 +4,6 @@
 - 👀 I’m interested in learning new skills in backend developing to become a full stack developer.
 - 💞️ I’m looking to collaborate on Web development projects, hosted sites editing/designing, or developing sites to be hosted.
 - 📫 You can reach me through my personal portfolio website(contact form or whatsapp) ---- https://utkarsh-dixit-git.github.io/utkarshdixit/ ---- Or you can just message me in my LinkedIn profile -----www.linkedin.com/in/utkarsh--dixit
-- <a href="http://www.instagram.com/lucky__dixit"><img src="![image](https://user-images.githubusercontent.com/88888678/172890502-8c4d8040-f3db-4ca3-a3da-d745e882de21.png)
+- <a href="http://www.instagram.com/lucky__dixit"><img src="https://user-images.githubusercontent.com/88888678/172890502-8c4d8040-f3db-4ca3-a3da-d745e882de21.png
 " width="100" alt="Insta Handle"/></a>
 
