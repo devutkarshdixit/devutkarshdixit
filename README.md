@@ -1,3 +1,4 @@
+- <a href="https://app.daily.dev/utkarshdixit"><img src="https://api.daily.dev/devcards/cc1c19e94c0f41259e60c06ad4cf84dd.png?r=yhi" width="400" alt="Utkarsh Dixit's Dev Card"/></a>
 - 👋 Hi, I’m Utkarsh Dixit.
 - 👀 I’m interested in learning new skills in backend developing to become a full stack developer.
 - 💞️ I’m looking to collaborate on Web development projects, hosted sites editing/designing, or developing sites to be hosted.
