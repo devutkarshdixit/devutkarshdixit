@@ -11,7 +11,7 @@
 ## Technologies I am Using
 <a href="https://vuejs.org/"><img src="https://user-images.githubusercontent.com/88888678/173036596-2434da14-ff65-47a5-a34c-101c9ef873c2.png" width="50" alt="VueJS"/></a> &nbsp; &nbsp;
 <a href="https://getbootstrap.com/"><img src="https://user-images.githubusercontent.com/88888678/173037427-8537973f-58db-41fe-a733-eecf933a4fd7.png" width="50" alt="Bootstrap"/></a> &nbsp; &nbsp;
-<a href="https://reactjs.org/"><img src="https://user-images.githubusercontent.com/88888678/173037561-bfce8e36-5e4f-43b4-8c85-c26535ba495a.png" width="auto" alt="ReactJS"/></a> &nbsp; &nbsp;
+<a href="https://reactjs.org/"><img src="https://user-images.githubusercontent.com/88888678/173037561-bfce8e36-5e4f-43b4-8c85-c26535ba495a.png" width="100" alt="ReactJS"/></a> &nbsp; &nbsp;
 - 👀 I’m interested in learning new skills in backend developing to become a full stack developer.
 - 💞️ I’m looking to collaborate on Web development projects, hosted sites editing/designing, or developing sites to be hosted.
 - 📫 You can reach me through my personal portfolio website(contact form or whatsapp) ---- https://utkarsh-dixit-git.github.io/utkarshdixit/
