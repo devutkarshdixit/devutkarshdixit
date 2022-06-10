@@ -10,7 +10,7 @@
 <a href="https://app.daily.dev/utkarshdixit"><img src="https://user-images.githubusercontent.com/88888678/172901880-d1892233-31ae-4775-b57b-09ef0f552597.png" width="50" alt="Daily Dev Handle"/></a> <br>
 ## Technologies I am Using
 <a href="https://vuejs.org/"><img src="https://user-images.githubusercontent.com/88888678/173036596-2434da14-ff65-47a5-a34c-101c9ef873c2.png" width="50" alt="VueJS"/></a> &nbsp; &nbsp;
-<a href="https://reactjs.org/"><img src="https://user-images.githubusercontent.com/88888678/173036951-0e6e35f7-33e4-4879-8933-92c86ddab89a.png" width="50" alt="VueJS"/></a> &nbsp; &nbsp;
+<a href="https://reactjs.org/"><img src="https://user-images.githubusercontent.com/88888678/173037181-8c45c203-9fe7-414d-83fc-05d212db4227.png" width="50" alt="VueJS"/></a> &nbsp; &nbsp;
 - 👀 I’m interested in learning new skills in backend developing to become a full stack developer.
 - 💞️ I’m looking to collaborate on Web development projects, hosted sites editing/designing, or developing sites to be hosted.
 - 📫 You can reach me through my personal portfolio website(contact form or whatsapp) ---- https://utkarsh-dixit-git.github.io/utkarshdixit/
