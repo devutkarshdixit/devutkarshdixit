@@ -9,9 +9,11 @@
 <a href="https://hashnode.com/@Utkarsh01"><img src="https://user-images.githubusercontent.com/88888678/172900523-ab0313d7-248d-4729-bad2-4ca881b14a00.png" width="50" alt="Hashnode Handle"/></a> &nbsp; &nbsp;
 <a href="https://app.daily.dev/utkarshdixit"><img src="https://user-images.githubusercontent.com/88888678/172901880-d1892233-31ae-4775-b57b-09ef0f552597.png" width="50" alt="Daily Dev Handle"/></a> <br>
 ## Technologies I am Using
-<a href="https://vuejs.org/"><img src="https://user-images.githubusercontent.com/88888678/173036596-2434da14-ff65-47a5-a34c-101c9ef873c2.png" width="50" alt="VueJS"/></a> &nbsp; &nbsp;
-<a href="https://getbootstrap.com/"><img src="https://user-images.githubusercontent.com/88888678/173037427-8537973f-58db-41fe-a733-eecf933a4fd7.png" width="50" alt="Bootstrap"/></a> &nbsp; &nbsp;
-<a href="https://reactjs.org/"><img src="https://user-images.githubusercontent.com/88888678/173037837-4268ba5e-113d-4b0b-bf9d-949406b57a83.png" width="100" alt="ReactJS"/></a> &nbsp; &nbsp;
+<div class="container" align="center">
+ <a href="https://vuejs.org/"><img src="https://user-images.githubusercontent.com/88888678/173036596-2434da14-ff65-47a5-a34c-101c9ef873c2.png" width="50" alt="VueJS"/>  </a> &nbsp; &nbsp;
+ <a href="https://getbootstrap.com/"><img src="https://user-images.githubusercontent.com/88888678/173037427-8537973f-58db-41fe-a733-eecf933a4fd7.png" width="50"        alt="Bootstrap"/></a> &nbsp; &nbsp;
+ <a href="https://reactjs.org/"><img src="https://user-images.githubusercontent.com/88888678/173037837-4268ba5e-113d-4b0b-bf9d-949406b57a83.png" width="100"      alt="ReactJS"/></a> &nbsp; &nbsp;
+</div>
 - 👀 I’m interested in learning new skills in backend developing to become a full stack developer.
 - 💞️ I’m looking to collaborate on Web development projects, hosted sites editing/designing, or developing sites to be hosted.
 - 📫 You can reach me through my personal portfolio website(contact form or whatsapp) ---- https://utkarsh-dixit-git.github.io/utkarshdixit/
