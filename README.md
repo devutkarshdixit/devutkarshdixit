@@ -13,7 +13,7 @@
  <a href="https://getbootstrap.com/"><img src="https://user-images.githubusercontent.com/88888678/173176991-c0739424-2cac-4e7b-b9e7-cbcc48a22ee1.png" width="50"        alt="Bootstrap"/></a> &nbsp; &nbsp;
  <a href="https://reactjs.org/"><img src="https://user-images.githubusercontent.com/88888678/173037837-4268ba5e-113d-4b0b-bf9d-949406b57a83.png" width="100"      alt="ReactJS"/></a> &nbsp; &nbsp;
  <a href="https://www.python.org/"><img src="https://user-images.githubusercontent.com/88888678/173176953-75fae421-8f66-4a4a-ae5f-c52bb334f330.png" width="50" alt="Python"/></a> &nbsp; &nbsp;
- <a href="https://www.java.com/"><img src="https://user-images.githubusercontent.com/88888678/173039027-2471905d-ab59-4785-88e3-1ccab12acc9e.png" width="50" alt="Java"/></a> &nbsp; &nbsp;
+ <a href="https://www.java.com/"><img src="https://user-images.githubusercontent.com/88888678/173177016-7e41c1e6-6d78-4ee0-b1ec-d91ad8f0a95f.png" width="50" alt="Java"/></a> &nbsp; &nbsp;
 ### 👀 I’m interested in learning new skills in backend developing to become a full stack developer.
 ### 💞️ I’m looking to collaborate on Web development projects, hosted sites editing/designing, or developing sites to be hosted.
 ### 📫 You can reach me through my personal portfolio website(contact form or whatsapp) ---- https://utkarsh-dixit-git.github.io/utkarshdixit/
