@@ -12,7 +12,7 @@
  <a href="https://vuejs.org/"><img src="https://user-images.githubusercontent.com/88888678/173036596-2434da14-ff65-47a5-a34c-101c9ef873c2.png" width="50" alt="VueJS"/>  </a> &nbsp; &nbsp;
  <a href="https://getbootstrap.com/"><img src="https://user-images.githubusercontent.com/88888678/173037427-8537973f-58db-41fe-a733-eecf933a4fd7.png" width="50"        alt="Bootstrap"/></a> &nbsp; &nbsp;
  <a href="https://reactjs.org/"><img src="https://user-images.githubusercontent.com/88888678/173037837-4268ba5e-113d-4b0b-bf9d-949406b57a83.png" width="100"      alt="ReactJS"/></a> &nbsp; &nbsp;
- <a href="https://www.python.org/"><img src="https://user-images.githubusercontent.com/88888678/173038839-32e5644b-7c76-4973-836b-183b19de19ba.png" width="50" alt="Python"/></a> &nbsp; &nbsp;
+ <a href="https://www.python.org/"><img src="https://user-images.githubusercontent.com/88888678/173176953-75fae421-8f66-4a4a-ae5f-c52bb334f330.png" width="50" alt="Python"/></a> &nbsp; &nbsp;
  <a href="https://www.java.com/"><img src="https://user-images.githubusercontent.com/88888678/173039027-2471905d-ab59-4785-88e3-1ccab12acc9e.png" width="50" alt="Java"/></a> &nbsp; &nbsp;
 ### 👀 I’m interested in learning new skills in backend developing to become a full stack developer.
 ### 💞️ I’m looking to collaborate on Web development projects, hosted sites editing/designing, or developing sites to be hosted.
