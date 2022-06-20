@@ -18,9 +18,10 @@
 ### 💞️ I’m looking to collaborate on Web development projects, hosted sites editing/designing, or developing sites to be hosted.
 #### 📫 You can reach me through my personal portfolio website(contact form or whatsapp) ``Click here---->``https://utkarsh-dixit-git.github.io/utkarshdixit/#contact
 # My `Github` Stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=utkarsh-dixit-git&theme=tokyonight&show_icons=true&count_private=true)
-&nbsp; &nbsp;
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh-dixit-git&theme=tokyonight&layout=compact)
+<div style="display: flex; flex-direction: row;">
+<img class="img" style="height:auto; width:40%;" src="https://github-readme-stats.vercel.app/api?username=utkarsh-dixit-git&theme=tokyonight&show_icons=true&count_private=true" />
+<img class="img" style="height:auto; width:40%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh-dixit-git&theme=tokyonight&layout=compact" />
+ </div>
 
 # `Github` Streak
 <a href="https://github.com/utkarsh-dixit-git/github-readme-stats">
