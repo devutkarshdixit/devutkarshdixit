@@ -1,4 +1,4 @@
-> Hi, I’m `Utkarsh Dixit`<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" height='25px'>
+>> Hi, I’m `Utkarsh Dixit`<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" height='25px'>
 
 > <div align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%219ebc&size=20&multiline=true&width=515&lines=Welcome+to+utkarsh-dixit-git's+Github+Profile" alt="Welcome!"/></div>
 <a href="https://app.daily.dev/utkarshdixit"><img src="https://api.daily.dev/devcards/cc1c19e94c0f41259e60c06ad4cf84dd.png?r=yhi" width="200" alt="Utkarsh Dixit's Dev Card"/></a> &nbsp; &nbsp; &nbsp; &nbsp;
