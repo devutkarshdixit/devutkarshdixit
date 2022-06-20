@@ -30,5 +30,5 @@
 </a>
 </div>
 
-## `GitHub` Activity Graph:
+# `GitHub` Activity Graph:
 ![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=utkarsh-dixit-git&hide_border=true&theme=redical)
