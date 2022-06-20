@@ -1,4 +1,3 @@
-<div align="center">
 # Hi, I’m `Utkarsh Dixit`<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" height='25px'>
 # <div align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%219ebc&size=20&multiline=true&width=515&lines=Welcome+to+utkarsh-dixit-git's+Github+Profile" alt="Welcome!"/></div>
 <a href="https://app.daily.dev/utkarshdixit"><img src="https://api.daily.dev/devcards/cc1c19e94c0f41259e60c06ad4cf84dd.png?r=yhi" width="200" alt="Utkarsh Dixit's Dev Card"/></a> &nbsp; &nbsp; &nbsp; &nbsp;
@@ -19,16 +18,17 @@
 #### 📫 You can reach me through my personal portfolio website(contact form or whatsapp) ``Click here---->``https://utkarsh-dixit-git.github.io/utkarshdixit/#contact
 
 # My `Github` Stats
-<div style="display: flex; flex-direction: row;">
+<div align="center" style="display: flex; flex-direction: row;">
 <img class="img" style="height:auto; width:50%;" src="https://github-readme-stats.vercel.app/api?username=utkarsh-dixit-git&theme=tokyonight&show_icons=true&count_private=true" />
 <img class="img" style="height:auto; width:50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh-dixit-git&theme=tokyonight&layout=compact" />
  </div>
 
 # `Github` Streak
+<div align="center">
 <a href="https://github.com/utkarsh-dixit-git/github-readme-stats">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh-dixit-git&theme=radical" width=400 align="center"></img>
 </a>
+</div>
 
 ## `GitHub` Activity Graph:
 ![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=utkarsh-dixit-git&hide_border=true&theme=redical)
-</div>
