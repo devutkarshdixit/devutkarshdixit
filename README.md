@@ -19,8 +19,8 @@
 #### 📫 You can reach me through my personal portfolio website(contact form or whatsapp) ``Click here---->``https://utkarsh-dixit-git.github.io/utkarshdixit/#contact
 # My `Github` Stats
 <div style="display: flex; flex-direction: row;">
-<img class="img" style="height:100%; width:40%;" src="https://github-readme-stats.vercel.app/api?username=utkarsh-dixit-git&theme=tokyonight&show_icons=true&count_private=true" /> &nbsp;
-<img class="img" style="height:70%; width:40%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh-dixit-git&theme=tokyonight&layout=compact" />
+<img class="img" style="height:auto; width:40%;" src="https://github-readme-stats.vercel.app/api?username=utkarsh-dixit-git&theme=tokyonight&show_icons=true&count_private=true" /> &nbsp;
+<img class="img" style="height:auto; width:40%; margin-top:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh-dixit-git&theme=tokyonight&layout=compact" />
  </div>
 
 # `Github` Streak
