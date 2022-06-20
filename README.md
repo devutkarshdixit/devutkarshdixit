@@ -18,14 +18,15 @@
 ### 💞️ I’m looking to collaborate on Web development projects, hosted sites editing/designing, or developing sites to be hosted.
 #### 📫 You can reach me through my personal portfolio website(contact form or whatsapp) ``Click here---->``https://utkarsh-dixit-git.github.io/utkarshdixit/#contact
 # My `Github` Stats
-<div>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=utkarsh-dixit-git&theme=tokyonight&show_icons=true&count_private=true)
+
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh-dixit-git&theme=tokyonight&layout=compact)
- </div>
 # `Github` Streak
 <a href="https://github.com/utkarsh-dixit-git/github-readme-stats">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh-dixit-git&theme=radical" width=400 align="center"></img>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh-dixit-git&theme=radical" width=400 align="center"></img>
 </a>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 ## `GitHub` Activity Graph:
 ![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=utkarsh-dixit-git&hide_border=true&theme=redical)
