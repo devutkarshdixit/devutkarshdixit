@@ -24,6 +24,7 @@ Property | Data
 #### 📫 You can reach me through my personal portfolio website(contact form or whatsapp) ``Click here---->``https://utkarsh-dixit-git.github.io/utkarshdixit/#contact
 
 ![](https://img.shields.io/github/commit-activity/m/utkarsh-dixit-git/utkarsh-dixit-git?style=flat-square)
+![](https://img.shields.io/github/last-commit/utkarsh-dixit-git/utkarsh-dixit-git?style=for-the-badge)
 
 # My `Github` Stats
 <div align="center" style="display: flex; flex-direction: row;">
