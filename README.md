@@ -36,10 +36,8 @@ Property | Data
 
 # `Github` Streak
 <div align="center">
-<a href="https://github.com/utkarsh-dixit-git/github-readme-stats">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh-dixit-git&theme=radical" width=400 align="center"></img>
-</a>
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh-dixit-git&theme=radical" width=400 align="center" />
+
 
 # `GitHub` Activity Graph:
 ![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=utkarsh-dixit-git&hide_border=true&theme=redical)
