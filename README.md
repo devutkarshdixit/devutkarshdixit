@@ -8,7 +8,7 @@
 <a href="https://hashnode.com/@Utkarsh01"><img src="https://user-images.githubusercontent.com/88888678/172900523-ab0313d7-248d-4729-bad2-4ca881b14a00.png" width="50" alt="Hashnode Handle"/></a> &nbsp; &nbsp;
 <a href="https://app.daily.dev/utkarshdixit"><img src="https://user-images.githubusercontent.com/88888678/172901880-d1892233-31ae-4775-b57b-09ef0f552597.png" width="50" alt="Daily Dev Handle"/></a> <br>
 ## Tech Stack
-<div align="center">
+
 Property | Data
 --- | --- 
 **Language** | ![Java](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C) ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=%23F7DF1E)
