@@ -23,7 +23,7 @@ Property | Data
 ### 💞️ I’m looking to collaborate on Web development projects, hosted sites editing/designing, or developing sites to be hosted.
 #### 📫 You can reach me through my personal portfolio website(contact form or whatsapp) ``Click here---->``https://utkarsh-dixit-git.github.io/utkarshdixit/#contact
 
-![](https://img.shields.io/github/commit-activity/m/utkarsh-dixit-git/utkarsh-dixit-git?style=flat-square)
+![](https://img.shields.io/github/commit-activity/m/utkarsh-dixit-git/utkarsh-dixit-git?style=for-the-badge)
 ![](https://img.shields.io/github/last-commit/utkarsh-dixit-git/utkarsh-dixit-git?style=for-the-badge)
 
 # My `Github` Stats
