@@ -20,7 +20,7 @@ Property | Data
  
 ### 👀 I’m interested in learning new skills in backend developing to become a `full stack developer`.
 ### 💞️ I’m looking to collaborate on Web development projects, hosted sites editing/designing, or developing sites to be hosted.
-#### 📫 You can reach me through my personal portfolio website(contact form or whatsapp) [<img width="50" alt="image" src="https://user-images.githubusercontent.com/88888678/175319763-9d404298-35c2-464b-ba33-54e367d59638.png">](https://utkarsh-dixit-git.github.io/utkarshdixit/#contact)
+#### 📫 You can reach me through my personal portfolio website(contact form or whatsapp)  <br /> [<img width="50" alt="image" src="https://user-images.githubusercontent.com/88888678/175319763-9d404298-35c2-464b-ba33-54e367d59638.png">](https://utkarsh-dixit-git.github.io/utkarshdixit/#contact)
 
 ![](https://img.shields.io/github/commit-activity/m/utkarsh-dixit-git/utkarsh-dixit-git?style=for-the-badge)
 ![](https://img.shields.io/github/last-commit/utkarsh-dixit-git/utkarsh-dixit-git?style=for-the-badge)
