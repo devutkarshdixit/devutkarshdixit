@@ -27,7 +27,7 @@ Property | Data
 # My `Github` Stats
 <div align="center" style="display: flex; flex-direction: row;">
 <img class="img" style="height:auto; width:50%;" src="https://github-readme-stats.vercel.app/api?username=utkarsh-dixit-git&theme=tokyonight&show_icons=true&count_private=true" />
-<img class="img" style="height:auto; width:50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh-dixit-git&theme=tokyonight&layout=compact" />
+<img class="img" style="height:auto; width:50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh-dixit-git&theme=radical&layout=compact" />
  </div>
 
 # `Github` Streak
