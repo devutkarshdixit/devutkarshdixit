@@ -17,10 +17,6 @@ Property | Data
 **OS**  | ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows&logoColor=0078D6) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu&logoColor=E95420)
 **Tools and Hosting**  | ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) ![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=Netlify)
 **IDEs / Editors** | ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
- 
-### 👀 I’m interested in learning new skills in backend developing to become a `full stack developer`.
-### 💞️ I’m looking to collaborate on Web development projects, hosted sites editing/designing, or developing sites to be hosted.
-#### 📫 You can reach me through my personal portfolio website(contact form or whatsapp)  [<img width="30" alt="image" src="https://user-images.githubusercontent.com/88888678/175555081-ed79e326-d94d-4448-a705-de3c5b888693.png">](https://utkarsh-dixit-git.github.io/utkarshdixit/#contact)
 
 ![](https://img.shields.io/github/commit-activity/m/utkarsh-dixit-git/utkarsh-dixit-git?style=for-the-badge)
 ![](https://img.shields.io/github/last-commit/utkarsh-dixit-git/utkarsh-dixit-git?style=for-the-badge)
