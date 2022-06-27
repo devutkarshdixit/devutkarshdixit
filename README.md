@@ -26,10 +26,8 @@ Property | Data
 ![](https://img.shields.io/github/watchers/utkarsh-dixit-git/utkarsh-dixit-git?style=for-the-badge)
   
 # My `Github` Stats
-<div align="center" style="display: flex; flex-direction: row;">
 <img class="img" style="height:auto; width:50%;" src="https://github-readme-stats.vercel.app/api?username=utkarsh-dixit-git&theme=radical&show_icons=true&count_private=true" />
 <img class="img" style="height:auto; width:50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh-dixit-git&theme=radical&layout=compact" />
-</div>
 
 # `Github` Streak
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh-dixit-git&theme=radical" width=400 align="center" />
