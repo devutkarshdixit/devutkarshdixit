@@ -25,7 +25,6 @@ Property | Data
 ![](https://img.shields.io/github/commit-activity/m/utkarsh-dixit-git/utkarsh-dixit-git?style=for-the-badge)
 ![](https://img.shields.io/github/last-commit/utkarsh-dixit-git/utkarsh-dixit-git?style=for-the-badge)
 ![](https://img.shields.io/github/followers/utkarsh-dixit-git?style=for-the-badge)
-![](https://img.shields.io/github/watchers/utkarsh-dixit-git/utkarsh-dixit-git?style=for-the-badge)
 ![](https://komarev.com/ghpvc/?username=utkarsh-dixit-git&label=Profile%20views&color=0e75b6&style=for-the-badge)
   
 # My `Github` Stats
