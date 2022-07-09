@@ -26,7 +26,7 @@ Property | Data
 ![](https://img.shields.io/github/last-commit/utkarsh-dixit-git/utkarsh-dixit-git?style=for-the-badge)
 ![](https://img.shields.io/github/followers/utkarsh-dixit-git?style=for-the-badge)
 ![](https://img.shields.io/github/watchers/utkarsh-dixit-git/utkarsh-dixit-git?style=for-the-badge)
-![](https://komarev.com/ghpvc/?username=utkarsh-dixit-git&label=Profile%20views&color=0e75b6&style=flat)
+![](https://komarev.com/ghpvc/?username=utkarsh-dixit-git&label=Profile%20views&color=0e75b6&style=for-the-badge)
   
 # My `Github` Stats
 <img class="img" style="height:auto; width:50%;" src="https://github-readme-stats.vercel.app/api?username=utkarsh-dixit-git&theme=radical&show_icons=true&count_private=true" />
