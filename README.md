@@ -33,4 +33,4 @@ Property | Data
 
 </div>
 
-https://github.com/{surya123-ctrl}/{Bunk4Study-Extension}/commits?author={utkarsh-dixit-git}
+https://github.com/surya123-ctrl/Bunk4Study-Extension/commits?author=utkarsh-dixit-git
