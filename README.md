@@ -32,5 +32,3 @@ Property | Data
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh-dixit-git&theme=radical" width=400 align="center" />
 
 </div>
-
-https://github.com/surya123-ctrl/Bunk4Study-Extension/commits?author=utkarsh-dixit-git
