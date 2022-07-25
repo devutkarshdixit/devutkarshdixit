@@ -1,3 +1,5 @@
+![banner](https://user-images.githubusercontent.com/88888678/180812885-b0913bec-7425-43c5-a057-b71998913fa8.jpeg)
+
 <div align="center">
   
 # Hi, I’m `Utkarsh Dixit`<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" height='25px'>
