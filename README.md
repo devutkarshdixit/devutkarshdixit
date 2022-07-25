@@ -25,7 +25,7 @@ Property | Data
 ![](https://img.shields.io/github/followers/utkarsh-dixit-git?style=for-the-badge)
 ![](https://komarev.com/ghpvc/?username=utkarsh-dixit-git&label=Profile%20views&color=0e75b6&style=for-the-badge)
   
-<img class="img" style="height:auto; width:50%;" src="https://github-readme-stats.vercel.app/api?username=utkarsh-dixit-git&theme=radical&show_icons=true&count_private=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh-dixit-git&theme=radical" width=400 align="center" />
+<img src="https://github-readme-stats.vercel.app/api?username=utkarsh-dixit-git&theme=radical&show_icons=true&count_private=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh-dixit-git&theme=radical"/>
 
 </div>
