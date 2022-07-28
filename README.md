@@ -28,7 +28,7 @@ Property | Data
   
 <p align = "center">
   <meta http-equiv="Pragma" content="no-cache">
-  <img src = "https://github-readme-stats.vercel.app/api?username=utkarsh-dixit-git&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api?username=utkarsh-dixit-git&theme=dark&hide_border=true" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=utkarsh-dixit-git&theme=dark&hide_border=true" width = 400>
 </p>
 
