@@ -33,4 +33,4 @@ Property | Data
 </p>
 
 </div>
-<a href="#top" style=scroll-behavior:smooth;><img src = "https://img.shields.io/badge/Back%20to-Top-brightgreen?style=for-the-badge" align="right"></a>
+<a href="#top"><img src = "https://img.shields.io/badge/Back%20to-Top-brightgreen?style=for-the-badge" align="right"></a>
