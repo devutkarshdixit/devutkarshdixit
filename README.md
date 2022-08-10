@@ -14,7 +14,7 @@
 <a href="https://app.daily.dev/utkarshdixit"><img src="https://user-images.githubusercontent.com/88888678/172901880-d1892233-31ae-4775-b57b-09ef0f552597.png" width="50" alt="Daily Dev Handle"/></a> <br>
 
 
-<p style="font-size:40px;"> Tech Stack</p>
+<p style="font-size:140px;"> Tech Stack</p>
 
 Property | Data
 --- | --- 
