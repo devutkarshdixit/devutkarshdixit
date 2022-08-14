@@ -11,7 +11,7 @@
 <a href="https://t.me/DevUtkarshDixit"><img src="https://user-images.githubusercontent.com/88888678/180679514-8f1fcc3b-ca6c-4265-b009-b5605f977c3b.png" width="50" alt="Telegram Handle"/></a> &nbsp; &nbsp;
 <a href="https://discord.com/channels/Utkarsh#2496"><img src="https://user-images.githubusercontent.com/88888678/172901330-21f66851-a87e-4bf5-893f-8013d82f2b36.png" width="50" alt="Discord Handle"/></a> &nbsp; &nbsp;
 <a href="https://app.daily.dev/utkarshdixit"><img src="https://user-images.githubusercontent.com/88888678/172901880-d1892233-31ae-4775-b57b-09ef0f552597.png" width="50" alt="Daily Dev Handle"/></a> <br>
-<a href="https://www.hackerrank.com/utkarshdixit"><svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M0 0v24h24V0zm9.95 8.002h1.805c.061 0 .111.05.111.111v7.767c0 .061-.05.111-.11.111H9.95c-.061 0-.111-.05-.111-.11v-2.87H7.894v2.87c0 .06-.05.11-.11.11H5.976a.11.11 0 01-.11-.11V8.112c0-.06.05-.11.11-.11h1.806c.061 0 .11.05.11.11v2.869H9.84v-2.87c0-.06.05-.11.11-.11zm2.999 0h5.778c.061 0 .111.05.111.11v7.767a.11.11 0 01-.11.112h-5.78a.11.11 0 01-.11-.11V8.111c0-.06.05-.11.11-.11z"/></svg></a> <br>
+<a href="https://www.hackerrank.com/utkarshdixit"><img src="https://user-images.githubusercontent.com/88888678/184520572-d2c76b03-821f-47fa-b070-8b5d6f3b127e.png" width="50" alt="HackerRank Handle"/></a> <br>
 
 ## Tech Stack
 
