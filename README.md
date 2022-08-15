@@ -34,7 +34,7 @@ Property | Data
 
 </div>
 
-![Bhavya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=TheNewC0der-24&hide_border=true&theme=redical)
+![Bhavya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=utkarsh-dixit-git&hide_border=true&theme=dark)
 
 ---
 
