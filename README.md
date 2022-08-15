@@ -32,10 +32,9 @@ Property | Data
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=utkarsh-dixit-git&theme=dark&hide_border=true" width = 400>
 </p>
 
+![](https://activity-graph.herokuapp.com/graph?username=utkarsh-dixit-git&hide_border=true&theme=react-dark)
+  
 </div>
-
-![Bhavya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=utkarsh-dixit-git&hide_border=true&theme=dark)
-
 ---
 
 <a href="#top"><img src = "https://img.shields.io/badge/Back%20to-Top-brightgreen?style=for-the-badge" align="right"></a>
