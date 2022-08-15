@@ -34,6 +34,8 @@ Property | Data
 
 </div>
 
+![Bhavya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=TheNewC0der-24&hide_border=true&theme=redical)
+
 ---
 
 <a href="#top"><img src = "https://img.shields.io/badge/Back%20to-Top-brightgreen?style=for-the-badge" align="right"></a>
