@@ -3,7 +3,7 @@
 <div align="center">
   
 # Hi, I’m `Utkarsh Dixit`<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" height='25px'>
-<img src="https://readme-typing-svg.herokuapp.com?color=%38b000&size=20&multiline=true&width=515&lines=Welcome+to+my+Github+Profile!+Let's+Connect+🌟" alt="Welcome!"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=%38b000&size=20&multiline=true&width=515&lines=Welcome+to+my+Github+Profile! +Let's+Connect+🌟" alt="Welcome!"/>
 
 <a  href="http://www.instagram.com/devutkarshdixit"><img src="https://user-images.githubusercontent.com/88888678/172891760-6e375560-620c-4af2-b3a1-c80f60cbb8c3.png" width="50" alt="Insta Handle"/></a> &nbsp; &nbsp;
 <a href="https://www.linkedin.com/in/utkarsh--dixit"><img src="https://user-images.githubusercontent.com/88888678/172894710-760433d2-7e10-45d9-b4be-0b5cc451487b.png" width="50" alt="LinkedIN Handle"/></a>&nbsp; &nbsp;
