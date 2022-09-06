@@ -32,8 +32,6 @@ Property | Data
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=utkarsh-dixit-git&theme=dark&hide_border=true" width = 400>
 </p>
 
-![](https://activity-graph.herokuapp.com/graph?username=utkarsh-dixit-git&hide_border=true&theme=react-dark)
-  
 </div>
 
 ---
