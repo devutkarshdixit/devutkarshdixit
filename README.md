@@ -1,4 +1,5 @@
-<a href="https://utkarsh-dixit-git.github.io/utkarshdixit/"><img width="951" alt="image" src="https://user-images.githubusercontent.com/88888678/190910501-b74d20f8-ea39-4f7b-a9a8-84a2ffcbf227.png"></a>
+<a href="https://utkarsh-dixit-git.github.io/utkarshdixit/"><img width="950" alt="image" src="https://user-images.githubusercontent.com/88888678/190910661-6926646e-1dd9-496e-9d5c-3dbf6dede706.png">
+</a>
 
 <div align="center">
   
