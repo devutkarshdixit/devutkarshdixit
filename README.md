@@ -32,7 +32,7 @@ Property | Data
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=utkarsh-dixit-git&theme=dark&hide_border=true" width = 400>
 </p>
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=utkarsh-dixit-git" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=utkarsh-dixit-git&theme=onedark)](https://github.com/utkarsh-dixit-git/github-profile-trophy)" />
 </p>
 </div>
 
