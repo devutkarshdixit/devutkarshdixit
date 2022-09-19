@@ -33,7 +33,7 @@ Property | Data
 </p>
 
 ## GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=utkarsh-dixit-git&column=-1&no-bg=true&no-frame=true&theme=monokai)](https://github.com/utkarsh-dixit-git/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=utkarsh-dixit-git&column=-1&no-bg=true&no-frame=true&theme=onedark)](https://github.com/utkarsh-dixit-git/github-profile-trophy)
   
 </div>
 
