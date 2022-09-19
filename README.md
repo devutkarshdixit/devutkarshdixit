@@ -31,7 +31,7 @@ Property | Data
   <img src = "https://github-readme-stats.vercel.app/api?username=utkarsh-dixit-git&theme=dark&hide_border=true" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=utkarsh-dixit-git&theme=dark&hide_border=true" width = 400>
 </p>
-[![](https://github-profile-trophy.vercel.app/?username=utkarsh-dixit-git&theme=onedark)](https://github-profile-trophy.vercel.app/?username=utkarsh-dixit-git&theme=onedark)
+  <img src = "https://github-profile-trophy.vercel.app/?username=utkarsh-dixit-git&theme=dark&hide_border=true" width = 400>
 </div>
 
 ---
