@@ -34,7 +34,7 @@ Property | Data
 
 ## Github-Trophies
 
-  <img src = "https://github-profile-trophy.vercel.app/?username=utkarsh-dixit-git&theme=dark&hide_border=true">
+  <img src = "https://github-profile-trophy.vercel.app/?username=utkarsh-dixit-git&theme=onedark&hide_border=true">
   
 </div>
 
