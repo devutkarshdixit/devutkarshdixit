@@ -32,9 +32,8 @@ Property | Data
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=utkarsh-dixit-git&theme=dark&hide_border=true" width = 400>
 </p>
 
-## Github-Trophies
-
-  <img src = "https://github-profile-trophy.vercel.app/?username=utkarsh-dixit-git&theme=onedark&hide_border=true">
+## GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=utkarsh-dixit-git&column=-1&no-bg=true&no-frame=true&theme=monokai)](https://github.com/utkarsh-dixit-git/github-profile-trophy)
   
 </div>
 
