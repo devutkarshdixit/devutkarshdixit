@@ -10,7 +10,7 @@
 <a href="https://www.linkedin.com/in/utkarsh--dixit"><img src="https://user-images.githubusercontent.com/88888678/172894710-760433d2-7e10-45d9-b4be-0b5cc451487b.png" width="50" alt="LinkedIN Handle"/></a>&nbsp; &nbsp;
 <a href="https://twitter.com/DevUtkarshDixit"><img src="https://user-images.githubusercontent.com/88888678/172897171-14919cb0-6602-4433-bbdc-1fbfa3c66171.png" width="50" alt="Twitter Handle"/></a> &nbsp; &nbsp;
 <a href="https://t.me/DevUtkarshDixit"><img src="https://user-images.githubusercontent.com/88888678/180679514-8f1fcc3b-ca6c-4265-b009-b5605f977c3b.png" width="50" alt="Telegram Handle"/></a> &nbsp; &nbsp;
-<a href="https://discord.com/channels/Utkarsh#2496"><img src="https://user-images.githubusercontent.com/88888678/192147050-19bef9c8-66b8-487d-bb49-24404ce04c32.png" width="50" alt="Discord Handle"/></a> &nbsp; &nbsp;
+<a href="https://discord.com/channels/Utkarsh#2496"><img src="https://user-images.githubusercontent.com/88888678/192147196-6f1a742b-3fce-47de-adca-435608366dee.png" width="50" alt="Discord Handle"/></a> &nbsp; &nbsp;
 <a href="https://www.hackerrank.com/utkarshdixit"><img src="https://user-images.githubusercontent.com/88888678/184520572-d2c76b03-821f-47fa-b070-8b5d6f3b127e.png" width="50" alt="HackerRank Handle"/></a> <br>
 
 ## Tech Stack
