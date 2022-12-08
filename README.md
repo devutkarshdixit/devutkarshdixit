@@ -14,11 +14,11 @@
 
 Property | Data
 --- | --- 
-**Language** | ![C](https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=C&logoColor=00599C) ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=%23F7DF1E)
-**Web Technologies**  | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript) ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react) ![Vue](https://img.shields.io/badge/-Vue.js-05122A?style=for-the-badge&logo=vue.js)
-**Frameworks, Platforms and Libraries** | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&logo=bootstrap&logoColor=563D7C) ![NPM](https://img.shields.io/badge/-NPM-05122A?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/-node.js-05122A?style=for-the-badge&logo=node.js&logoColor=6DA55F)
-**Databases** | ![MongoDB](https://img.shields.io/badge/-MongoDB-111?style=for-the-badge&logo=mongodb)
-**Tools and Hosting**  | ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github) ![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=for-the-badge&logo=Netlify) ![Vercel](https://img.shields.io/badge/-Vercel-111?style=for-the-badge&logo=vercel)
+**Language** | ![C](https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=C) ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python) ![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=java)
+**Web Technologies**  | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3)![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript) ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react) ![Vue](https://img.shields.io/badge/-Vue.js-05122A?style=for-the-badge&logo=vue.js)
+**Frameworks, Platforms and Libraries** | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&logo=bootstrap) ![NPM](https://img.shields.io/badge/-NPM-05122A?style=for-the-badge&logo=npm) ![NodeJS](https://img.shields.io/badge/-node.js-05122A?style=for-the-badge&logo=node.js)
+**Databases** | ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&logo=mongodb)
+**Tools and Hosting**  | ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github) ![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=for-the-badge&logo=Netlify) ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=for-the-badge&logo=vercel)
 
 ![](https://img.shields.io/github/commit-activity/m/utkarsh-dixit-git/utkarsh-dixit-git?style=for-the-badge)
 ![](https://img.shields.io/github/last-commit/utkarsh-dixit-git/utkarsh-dixit-git?style=for-the-badge)
