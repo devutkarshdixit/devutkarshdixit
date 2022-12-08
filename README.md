@@ -18,7 +18,7 @@ Property | Data
 **Web Technologies**  | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![Vue](https://img.shields.io/badge/-Vue.js-05122A?logo=vue.js)
 **Frameworks, Platforms and Libraries** | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C) ![NPM](https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/-node.js-05122A?style=flat&logo=node.js&logoColor=6DA55F)
 **Databases** | ![MongoDB](https://img.shields.io/badge/-MongoDB-111?style=for-the-badge&logo=mongodb)
-**Tools and Hosting**  | ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) ![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=Netlify)
+**Tools and Hosting**  | ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) ![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=Netlify) ![Vercel](https://img.shields.io/badge/-Vercel-111?style=for-the-badge&logo=vercel)
 
 ![](https://img.shields.io/github/commit-activity/m/utkarsh-dixit-git/utkarsh-dixit-git?style=for-the-badge)
 ![](https://img.shields.io/github/last-commit/utkarsh-dixit-git/utkarsh-dixit-git?style=for-the-badge)
