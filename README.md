@@ -13,7 +13,7 @@
 ## Tech Stack
 
 Property | Data
---- | --- 
+---- | ---- 
 **Language** | ![C](https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=C) ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python) ![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=java)
 **Web Technologies**  | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3)![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript) ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react) ![Vue](https://img.shields.io/badge/-Vue.js-05122A?style=for-the-badge&logo=vue.js)
 **Frameworks, Platforms and Libraries** | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&logo=bootstrap) ![NPM](https://img.shields.io/badge/-NPM-05122A?style=for-the-badge&logo=npm) ![NodeJS](https://img.shields.io/badge/-node.js-05122A?style=for-the-badge&logo=node.js)
