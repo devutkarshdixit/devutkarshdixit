@@ -1,3 +1,8 @@
+<style>
+  html {
+    scroll-behavior: smooth;
+}
+</style>
 <a href="https://devutkarshdixit.github.io/utkarshdixit/"><img width="1000" alt="image" src="https://user-images.githubusercontent.com/88888678/190910661-6926646e-1dd9-496e-9d5c-3dbf6dede706.png">
 </a>
 
