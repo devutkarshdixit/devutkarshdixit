@@ -24,16 +24,20 @@ Property | Data
 ![](https://komarev.com/ghpvc/?username=devutkarshdixit&label=Profile%20views&color=f4a261&style=for-the-badge)
 
 
-<!-----------
+<!--
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=devutkarshdixit&theme=dark&hide_border=true" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=devutkarshdixit&theme=dark&hide_border=true" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=devutkarshdixit&theme=dark&hide_border=true" height = 170 width = 400>
 </p>
 
+
+
 ## GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=devutkarshdixit&column=-1&no-bg=true&no-frame=true&theme=tokyonight)](https://github.com/devutkarshdixit/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=devutkarshdixit&column=-1&no-bg=true&no-frame=true&theme=tokyonight)
   
-</div> --->
+</div>
+-->
+
 ---
 
 <a href="#top"><img src = "https://img.shields.io/badge/Back%20to-Top-brightgreen?style=for-the-badge" align="right"></a>
