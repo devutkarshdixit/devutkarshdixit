@@ -9,7 +9,7 @@
 <a href="https://t.me/DevUtkarshDixit"><img src="https://user-images.githubusercontent.com/88888678/180679514-8f1fcc3b-ca6c-4265-b009-b5605f977c3b.png" width="50" alt="Telegram Handle"/></a> &nbsp; &nbsp;
 <a href="https://www.hackerrank.com/utkarshdixit"><img src="https://user-images.githubusercontent.com/88888678/184520572-d2c76b03-821f-47fa-b070-8b5d6f3b127e.png" width="50" alt="HackerRank Handle"/></a>
 
-## Tech Stack
+## `Tech Stack`
 
 Property | Data
 --- | --- 
